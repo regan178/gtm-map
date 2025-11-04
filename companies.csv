@@ -1,85 +1,109 @@
 Category,Tier,Company,Domain
-AI Outbound & Pipeline Gen,Leaders,6sense,6sense.com
-AI Outbound & Pipeline Gen,Leaders,Apollo,apollo.io
-AI Outbound & Pipeline Gen,Leaders,Clearbit,clearbit.com
-AI Outbound & Pipeline Gen,Leaders,Cognism,cognism.com
-AI Outbound & Pipeline Gen,Leaders,Demandbase,demandbase.com
-AI Outbound & Pipeline Gen,Leaders,InsideView,insideview.com
-AI Outbound & Pipeline Gen,Leaders,LinkedIn Sales Navigator,linkedin.com
-AI Outbound & Pipeline Gen,Leaders,Outreach,outreach.io
-AI Outbound & Pipeline Gen,Leaders,Salesloft,salesloft.com
-AI Outbound & Pipeline Gen,Leaders,UserGems,usergems.com
-AI Outbound & Pipeline Gen,Leaders,ZoomInfo,zoominfo.com
-AI Outbound & Pipeline Gen,Emerging Innovators,11x,11x.ai
-AI Outbound & Pipeline Gen,Emerging Innovators,AiSDR,aisdr.com
-AI Outbound & Pipeline Gen,Emerging Innovators,Amplemarket,amplemarket.com
-AI Outbound & Pipeline Gen,Emerging Innovators,Artisan,artisan.co
-AI Outbound & Pipeline Gen,Emerging Innovators,Bluebirds,bluebirds.com
-AI Outbound & Pipeline Gen,Emerging Innovators,Clay,clay.com
-AI Outbound & Pipeline Gen,Emerging Innovators,Flowrite,flowrite.com
-AI Outbound & Pipeline Gen,Emerging Innovators,Lavender,lavender.ai
-AI Outbound & Pipeline Gen,Emerging Innovators,Nooks,nooks.ai
-AI Outbound & Pipeline Gen,Emerging Innovators,Orum,orum.com
-AI Outbound & Pipeline Gen,Emerging Innovators,Regie.ai,regie.ai
-AI Outbound & Pipeline Gen,Emerging Innovators,SellScale,sellscale.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,Anthropic Projects,anthropicprojects.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,CrewAI,crewai.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,Cursor,cursor.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,LangChain,langchain.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,LangGraph,langgraph.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,Lovable,lovable.dev
-Agentic Sales Ops & Orchestration,Emerging Innovators,OpenAI Assistants,openai.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,Pipedream,pipedream.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,Replit,replit.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,Retool,retool.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,Superblocks,superblocks.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,Workato,workato.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,Zapier,zapier.com
-Agentic Sales Ops & Orchestration,Emerging Innovators,n8n,n8n.io
-Agentic Sales Ops & Orchestration,Emerging Innovators,x.ai,xai.com
-Deal Execution & Buyer Collaboration,Leaders,Calendly,calendly.com
-Deal Execution & Buyer Collaboration,Leaders,ClickUp,clickup.com
-Deal Execution & Buyer Collaboration,Leaders,DocuSign,docusign.com
-Deal Execution & Buyer Collaboration,Leaders,Intercom,intercom.com
-Deal Execution & Buyer Collaboration,Leaders,Notion,notion.com
-Deal Execution & Buyer Collaboration,Emerging Innovators,Accord,accord.com
-Deal Execution & Buyer Collaboration,Emerging Innovators,Dock,dock.com
-Deal Execution & Buyer Collaboration,Emerging Innovators,Momentum.io,momentumio.com
-Deal Execution & Buyer Collaboration,Emerging Innovators,Qualified,qualified.com
-Deal Execution & Buyer Collaboration,Emerging Innovators,Rattle,rattle.com
-Deal Execution & Buyer Collaboration,Emerging Innovators,Salesroom,salesroom.com
-Deal Execution & Buyer Collaboration,Emerging Innovators,Supademo,supademo.com
-Deal Execution & Buyer Collaboration,Emerging Innovators,Troops,troops.com
-Deal Execution & Buyer Collaboration,Emerging Innovators,Vivun,vivun.com
-Forecasting, Pipeline Health & Sales Management,Leaders,Aviso,aviso.com
-Forecasting, Pipeline Health & Sales Management,Leaders,BoostUp.ai,boostupai.com
-Forecasting, Pipeline Health & Sales Management,Leaders,Clari,clari.com
-Forecasting, Pipeline Health & Sales Management,Leaders,Gong,gong.com
-Forecasting, Pipeline Health & Sales Management,Leaders,InsightSquared,insightsquared.com
-Forecasting, Pipeline Health & Sales Management,Leaders,People.ai,peopleai.com
-Forecasting, Pipeline Health & Sales Management,Leaders,Salesforce Revenue Intelligence,salesforcerevenueintelligence.com
-Forecasting, Pipeline Health & Sales Management,Emerging Innovators,Atrium,atrium.com
-Forecasting, Pipeline Health & Sales Management,Emerging Innovators,Ebsta,ebsta.com
-Forecasting, Pipeline Health & Sales Management,Emerging Innovators,Revenue Grid,revenuegrid.com
-Forecasting, Pipeline Health & Sales Management,Emerging Innovators,Revenue.io,revenueio.com
-Forecasting, Pipeline Health & Sales Management,Emerging Innovators,Scratchpad,scratchpad.com
-Forecasting, Pipeline Health & Sales Management,Emerging Innovators,SetSail,setsail.com
-Forecasting, Pipeline Health & Sales Management,Emerging Innovators,Weflow,weflow.com
-Meeting Intelligence & Prep,Leaders,Chorus,chorus.com
-Meeting Intelligence & Prep,Leaders,Clari Copilot,claricopilot.com
-Meeting Intelligence & Prep,Leaders,Gong,gong.com
-Meeting Intelligence & Prep,Leaders,Microsoft Copilot for Sales,microsoftcopilotforsales.com
-Meeting Intelligence & Prep,Leaders,Otter,otter.com
-Meeting Intelligence & Prep,Leaders,RingCentral (RingSense),ringcentralringsense.com
-Meeting Intelligence & Prep,Leaders,Zoom IQ for Sales,zoomiqforsales.com
-Meeting Intelligence & Prep,Emerging Innovators,Actively,actively.com
-Meeting Intelligence & Prep,Emerging Innovators,Attention,attention.com
-Meeting Intelligence & Prep,Emerging Innovators,Avoma,avoma.com
-Meeting Intelligence & Prep,Emerging Innovators,Fathom.ai,fathomai.com
-Meeting Intelligence & Prep,Emerging Innovators,Fireflies.ai,firefliesai.com
-Meeting Intelligence & Prep,Emerging Innovators,Glean,glean.com
-Meeting Intelligence & Prep,Emerging Innovators,Salesroom,salesroom.com
-Meeting Intelligence & Prep,Emerging Innovators,Sembly,sembly.com
-Meeting Intelligence & Prep,Emerging Innovators,Supernormal,supernormal.com
-Meeting Intelligence & Prep,Emerging Innovators,Winn,winn.com
-Meeting Intelligence & Prep,Emerging Innovators,tl;dv,tl;dv.com
+Market Segmentation,Leaders,6sense,6sense.com
+Market Segmentation,Leaders,Demandbase,demandbase.com
+Market Segmentation,Leaders,ZoomInfo,zoominfo.com
+Market Segmentation,Leaders,Clearbit (HubSpot),clearbit.com
+Market Segmentation,Emerging Innovators,MadKudu,madkudu.com
+Market Segmentation,Emerging Innovators,Common Room,commonroom.com
+Market Segmentation,Emerging Innovators,Clay,clay.com
+Market Segmentation,Emerging Innovators,Warmly,warmly.ai
+Marketing Automation,Leaders,HubSpot Marketing Hub,hubspot.com
+Marketing Automation,Leaders,Adobe Marketo Engage,marketo.com
+Marketing Automation,Leaders,Salesforce Account Engagement,salesforce.com
+Marketing Automation,Leaders,Intercom,intercom.com
+Marketing Automation,Leaders,Drift,drift.com
+Marketing Automation,Emerging Innovators,Mutiny,mutiny.com
+Marketing Automation,Emerging Innovators,Jasper,jasper.ai
+Marketing Automation,Emerging Innovators,Copy.ai,copy.ai
+Marketing Automation,Emerging Innovators,Regie.ai,regie.ai
+GTM Data,Leaders,ZoomInfo,zoominfo.com
+GTM Data,Leaders,Cognism,cognism.com
+GTM Data,Leaders,Apollo,apollo.io
+GTM Data,Leaders,Clearbit (HubSpot),clearbit.com
+GTM Data,Emerging Innovators,Clay,clay.com
+GTM Data,Emerging Innovators,Truebase,truebase.io
+GTM Data,Emerging Innovators,People Data Labs,peopledatalabs.com
+GTM Data,Emerging Innovators,LeadIQ,leadiq.com
+Outbound PG & Sequencing,Leaders,Outreach,outreach.io
+Outbound PG & Sequencing,Leaders,Salesloft,salesloft.com
+Outbound PG & Sequencing,Leaders,Apollo,apollo.io
+Outbound PG & Sequencing,Leaders,HubSpot Sequences,hubspot.com
+Outbound PG & Sequencing,Emerging Innovators,11x,11x.ai
+Outbound PG & Sequencing,Emerging Innovators,AiSDR,aisdr.com
+Outbound PG & Sequencing,Emerging Innovators,Amplemarket,amplemarket.com
+Outbound PG & Sequencing,Emerging Innovators,Artisan,artisan.co
+Outbound PG & Sequencing,Emerging Innovators,Bluebirds,bluebirds.com
+Outbound PG & Sequencing,Emerging Innovators,Clay,clay.com
+Outbound PG & Sequencing,Emerging Innovators,Flowrite,flowrite.com
+Outbound PG & Sequencing,Emerging Innovators,Lavender,lavender.ai
+Outbound PG & Sequencing,Emerging Innovators,Nooks,nooks.ai
+Outbound PG & Sequencing,Emerging Innovators,Orum,orum.com
+Outbound PG & Sequencing,Emerging Innovators,Regie.ai,regie.ai
+Outbound PG & Sequencing,Emerging Innovators,SellScale,sellscale.com
+Product-Led PG,Leaders,Pocus,pocus.com
+Product-Led PG,Leaders,PostHog,posthog.com
+Product-Led PG,Leaders,Amplitude,amplitude.com
+Product-Led PG,Leaders,Appcues,appcues.com
+Product-Led PG,Leaders,Userflow,userflow.com
+Product-Led PG,Emerging Innovators,June,june.so
+Product-Led PG,Emerging Innovators,Calixa,calixa.io
+Product-Led PG,Emerging Innovators,Toplyne,toplyne.com
+Product-Led PG,Emerging Innovators,HeadsUp*,headsup.ai
+Enablement / Onboarding,Leaders,Highspot,highspot.com
+Enablement / Onboarding,Leaders,Seismic,seismic.com
+Enablement / Onboarding,Leaders,Mindtickle,mindtickle.com
+Enablement / Onboarding,Leaders,Spekit,spekit.com
+Enablement / Onboarding,Leaders,Rocketlane,rocketlane.com
+Enablement / Onboarding,Emerging Innovators,Scribe,scribehow.com
+Enablement / Onboarding,Emerging Innovators,Tango,tango.us
+Enablement / Onboarding,Emerging Innovators,Guidde,guidde.com
+Enablement / Onboarding,Emerging Innovators,Aircover,aircover.co
+Pipeline Management and Forecasting,Leaders,DocuSign,docusign.com
+Pipeline Management and Forecasting,Leaders,PandaDoc,pandadoc.com
+Pipeline Management and Forecasting,Leaders,GetAccept,getaccept.com
+Pipeline Management and Forecasting,Leaders,Clari,clari.com
+Pipeline Management and Forecasting,Leaders,Salesforce Revenue Intelligence,salesforce.com
+Pipeline Management and Forecasting,Leaders,BoostUp.ai,boostupai.com
+Pipeline Management and Forecasting,Leaders,Aviso,aviso.com
+Pipeline Management and Forecasting,Leaders,People.ai,peopleai.com
+Pipeline Management and Forecasting,Emerging Innovators,Dock,dock.com
+Pipeline Management and Forecasting,Emerging Innovators,Accord,accord.com
+Pipeline Management and Forecasting,Emerging Innovators,Momentum.io,momentumio.com
+Pipeline Management and Forecasting,Emerging Innovators,Trumpet,trumpet.com
+Pipeline Management and Forecasting,Emerging Innovators,Recapped,recapped.io
+Pipeline Management and Forecasting,Emerging Innovators,Vivun,vivun.com
+Pipeline Management and Forecasting,Emerging Innovators,Scratchpad,scratchpad.com
+Pipeline Management and Forecasting,Emerging Innovators,Weflow,weflow.com
+Pipeline Management and Forecasting,Emerging Innovators,Atrium,atrium.com
+Pipeline Management and Forecasting,Emerging Innovators,Ebsta,ebsta.com
+Pipeline Management and Forecasting,Emerging Innovators,Revenue Grid,revenuegrid.com
+Pipeline Management and Forecasting,Emerging Innovators,SetSail,setsail.com
+Conversational Intel,Leaders,Gong,gong.com
+Conversational Intel,Leaders,Zoom Revenue Accelerator,zoom.us
+Conversational Intel,Leaders,Microsoft Copilot for Sales,microsoft.com
+Conversational Intel,Emerging Innovators,Granola,granola.ai
+Conversational Intel,Emerging Innovators,Avoma,avoma.com
+Conversational Intel,Emerging Innovators,Fireflies.ai,fireflies.ai
+Conversational Intel,Emerging Innovators,Fathom,fathom.ai
+Conversational Intel,Emerging Innovators,Sembly,sembly.ai
+Conversational Intel,Emerging Innovators,Supernormal,supernormal.com
+Conversational Intel,Emerging Innovators,Winn,winn.com
+Conversational Intel,Emerging Innovators,tl;dv,tldv.io
+Customer Success,Leaders,Gainsight,gainsight.com
+Customer Success,Leaders,Totango,totango.com
+Customer Success,Leaders,Planhat,planhat.com
+Customer Success,Leaders,ChurnZero,churnzero.com
+Customer Success,Leaders,Catalyst,catalyst.io
+Customer Success,Leaders,Vitally,vitally.io
+Customer Success,Emerging Innovators,Rocketlane,rocketlane.com
+Customer Success,Emerging Innovators,EverAfter,everafter.ai
+Customer Success,Emerging Innovators,Arrows,arrows.to
+Planning & Ops,Leaders,Anaplan,anaplan.com
+Planning & Ops,Leaders,Pigment,pigment.com
+Planning & Ops,Leaders,Xactly,xactly.com
+Planning & Ops,Leaders,CaptivateIQ,captivateiq.com
+Planning & Ops,Leaders,Varicent,varicent.com
+Planning & Ops,Leaders,Workday Adaptive Planning,workday.com
+Planning & Ops,Emerging Innovators,Causal,causal.app
+Planning & Ops,Emerging Innovators,Equals,equals.com
+Planning & Ops,Emerging Innovators,Canvas,canvas.com
