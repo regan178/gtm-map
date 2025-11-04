@@ -41,12 +41,43 @@
 </header>
 <main class="wrap" id="app"></main>
 <script>
-const DATA = [{"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "6sense"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "Apollo"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "Clearbit"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "Cognism"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "Demandbase"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "InsideView"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "LinkedIn Sales Navigator"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "Outreach"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "Salesloft"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "UserGems"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Leaders", "Company": "ZoomInfo"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "11x"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "AiSDR"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "Amplemarket"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "Artisan"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "Bluebirds"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "Clay"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "Flowrite"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "Lavender"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "Nooks"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "Orum"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "Regie.ai"}, {"Category": "AI Outbound & Pipeline Gen", "Tier": "Emerging Innovators", "Company": "SellScale"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "Anthropic Projects"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "CrewAI"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "Cursor"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "LangChain"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "LangGraph"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "Lovable"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "OpenAI Assistants"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "Pipedream"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "Replit"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "Retool"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "Superblocks"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "Workato"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "Zapier"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "n8n"}, {"Category": "Agentic Sales Ops & Orchestration", "Tier": "Emerging Innovators", "Company": "x.ai"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Leaders", "Company": "Calendly"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Leaders", "Company": "ClickUp"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Leaders", "Company": "DocuSign"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Leaders", "Company": "Intercom"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Leaders", "Company": "Notion"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Emerging Innovators", "Company": "Accord"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Emerging Innovators", "Company": "Dock"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Emerging Innovators", "Company": "Momentum.io"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Emerging Innovators", "Company": "Qualified"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Emerging Innovators", "Company": "Rattle"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Emerging Innovators", "Company": "Salesroom"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Emerging Innovators", "Company": "Supademo"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Emerging Innovators", "Company": "Troops"}, {"Category": "Deal Execution & Buyer Collaboration", "Tier": "Emerging Innovators", "Company": "Vivun"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Leaders", "Company": "Aviso"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Leaders", "Company": "BoostUp.ai"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Leaders", "Company": "Clari"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Leaders", "Company": "Gong"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Leaders", "Company": "InsightSquared"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Leaders", "Company": "People.ai"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Leaders", "Company": "Salesforce Revenue Intelligence"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Emerging Innovators", "Company": "Atrium"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Emerging Innovators", "Company": "Ebsta"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Emerging Innovators", "Company": "Revenue Grid"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Emerging Innovators", "Company": "Revenue.io"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Emerging Innovators", "Company": "Scratchpad"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Emerging Innovators", "Company": "SetSail"}, {"Category": "Forecasting, Pipeline Health & Sales Management", "Tier": "Emerging Innovators", "Company": "Weflow"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Leaders", "Company": "Chorus"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Leaders", "Company": "Clari Copilot"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Leaders", "Company": "Gong"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Leaders", "Company": "Microsoft Copilot for Sales"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Leaders", "Company": "Otter"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Leaders", "Company": "RingCentral (RingSense)"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Leaders", "Company": "Zoom IQ for Sales"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "Actively"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "Attention"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "Avoma"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "Fathom.ai"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "Fireflies.ai"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "Glean"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "Salesroom"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "Sembly"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "Supernormal"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "Winn"}, {"Category": "Meeting Intelligence & Prep", "Tier": "Emerging Innovators", "Company": "tl;dv"}];
-const DOMAIN = {"6sense": "6sense.com", "Apollo": "apollo.io", "Clearbit": "clearbit.com", "Cognism": "cognism.com", "Demandbase": "demandbase.com", "InsideView": "insideview.com", "LinkedIn Sales Navigator": "linkedin.com", "Outreach": "outreach.io", "Salesloft": "salesloft.com", "UserGems": "usergems.com", "ZoomInfo": "zoominfo.com", "11x": "11x.ai", "AiSDR": "aisdr.com", "Amplemarket": "amplemarket.com", "Artisan": "artisan.co", "Bluebirds": "bluebirds.com", "Clay": "clay.com", "Flowrite": "flowrite.com", "Lavender": "lavender.ai", "Nooks": "nooks.ai", "Orum": "orum.com", "Regie.ai": "regie.ai", "SellScale": "sellscale.com", "Anthropic Projects": "anthropicprojects.com", "CrewAI": "crewai.com", "Cursor": "cursor.com", "LangChain": "langchain.com", "LangGraph": "langgraph.com", "Lovable": "lovable.dev", "OpenAI Assistants": "openai.com", "Pipedream": "pipedream.com", "Replit": "replit.com", "Retool": "retool.com", "Superblocks": "superblocks.com", "Workato": "workato.com", "Zapier": "zapier.com", "n8n": "n8n.io", "x.ai": "xai.com", "Calendly": "calendly.com", "ClickUp": "clickup.com", "DocuSign": "docusign.com", "Intercom": "intercom.com", "Notion": "notion.com", "Accord": "accord.com", "Dock": "dock.com", "Momentum.io": "momentumio.com", "Qualified": "qualified.com", "Rattle": "rattle.com", "Salesroom": "salesroom.com", "Supademo": "supademo.com", "Troops": "troops.com", "Vivun": "vivun.com", "Aviso": "aviso.com", "BoostUp.ai": "boostupai.com", "Clari": "clari.com", "Gong": "gong.com", "InsightSquared": "insightsquared.com", "People.ai": "peopleai.com", "Salesforce Revenue Intelligence": "salesforcerevenueintelligence.com", "Atrium": "atrium.com", "Ebsta": "ebsta.com", "Revenue Grid": "revenuegrid.com", "Revenue.io": "revenueio.com", "Scratchpad": "scratchpad.com", "SetSail": "setsail.com", "Weflow": "weflow.com", "Chorus": "chorus.com", "Clari Copilot": "claricopilot.com", "Microsoft Copilot for Sales": "microsoftcopilotforsales.com", "Otter": "otter.com", "RingCentral (RingSense)": "ringcentralringsense.com", "Zoom IQ for Sales": "zoomiqforsales.com", "Actively": "actively.com", "Attention": "attention.com", "Avoma": "avoma.com", "Fathom.ai": "fathomai.com", "Fireflies.ai": "firefliesai.com", "Glean": "glean.com", "Sembly": "sembly.com", "Supernormal": "supernormal.com", "Winn": "winn.com", "tl;dv": "tl;dv.com"};
 const ORDER = ["Leaders", "Emerging Innovators", "Innovators", "Other"];
+
+// Simple CSV parser
+function parseCSV(text) {
+  const lines = text.trim().split('\n');
+  if (lines.length < 2) return [];
+  const headers = lines[0].split(',');
+  const data = [];
+  for (let i = 1; i < lines.length; i++) {
+    const values = [];
+    let current = '';
+    let inQuotes = false;
+    for (let j = 0; j < lines[i].length; j++) {
+      const char = lines[i][j];
+      if (char === '"') {
+        inQuotes = !inQuotes;
+      } else if (char === ',' && !inQuotes) {
+        values.push(current.trim());
+        current = '';
+      } else {
+        current += char;
+      }
+    }
+    values.push(current.trim());
+    if (values.length === headers.length) {
+      const obj = {};
+      headers.forEach((h, idx) => { obj[h.trim()] = values[idx] || ''; });
+      data.push(obj);
+    }
+  }
+  return data;
+}
+
 function group(arr, key){ const m={}; for(const it of arr){ (m[it[key]] = m[it[key]] || []).push(it); } return m; }
-function buildLogo(name){
-  const dom = DOMAIN[name] || "";
+
+function buildLogo(name, domain){
+  const dom = domain || "";
   const href = dom ? ("https://" + dom) : "#";
   const clearbit = dom ? ("https://logo.clearbit.com/" + dom + "?size=64") : "";
   const favicon = dom ? ("https://www.google.com/s2/favicons?domain=" + dom + "&sz=64") : "";
@@ -57,9 +88,15 @@ function buildLogo(name){
   const a = document.createElement('a'); a.href = href; a.target = "_blank"; a.rel = "noopener noreferrer"; a.textContent = name;
   const div = document.createElement('div'); div.className = 'logo'; div.appendChild(img); div.appendChild(a); return div;
 }
-function render(){
+
+function render(data){
   const app = document.getElementById('app');
-  const byCat = group(DATA, "Category");
+  app.innerHTML = ''; // Clear existing content
+  if (!data || data.length === 0) {
+    app.innerHTML = '<div style="padding: 20px; text-align: center; color: var(--muted);">No data available. Please check companies.csv file.</div>';
+    return;
+  }
+  const byCat = group(data, "Category");
   Object.keys(byCat).forEach(cat => {
     const catWrap = document.createElement('div'); catWrap.className = "category";
     const card = document.createElement('div'); card.className = "card";
@@ -72,13 +109,33 @@ function render(){
       const tt = document.createElement('div'); tt.className = "tier-title"; tt.textContent = key;
       const area = document.createElement('div'); area.className = "logos";
       const seen = new Set();
-      for(const it of byTier[key]){ const name = it.Company; if(!name || seen.has(name)) continue; seen.add(name); area.appendChild(buildLogo(name)); }
+      for(const it of byTier[key]){ 
+        const name = it.Company; 
+        if(!name || seen.has(name)) continue; 
+        seen.add(name); 
+        area.appendChild(buildLogo(name, it.Domain)); 
+      }
       t.appendChild(tt); t.appendChild(area); tiers.appendChild(t);
     }
     card.appendChild(tiers); catWrap.appendChild(card); app.appendChild(catWrap);
   });
 }
-render();
+
+// Load CSV data
+fetch('companies.csv')
+  .then(response => {
+    if (!response.ok) throw new Error('Failed to load companies.csv');
+    return response.text();
+  })
+  .then(csvText => {
+    const data = parseCSV(csvText);
+    render(data);
+  })
+  .catch(error => {
+    console.error('Error loading CSV:', error);
+    const app = document.getElementById('app');
+    app.innerHTML = '<div style="padding: 20px; text-align: center; color: #dc2626;"><strong>Error:</strong> Could not load companies.csv. Please ensure the file exists and is accessible.</div>';
+  });
 </script>
 </body>
 </html>
